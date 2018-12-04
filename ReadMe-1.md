@@ -60,7 +60,7 @@ This incident is notable for its rarity, as foreign nationals have historically 
 The crimes Tyurin is being charged with relate to the 2014 security breach of several major banks, principally J.P. Morgan Chase, resulting in the the personal information of nearly 80 Million Americans being compromised. 
 U.S. Attorney Geoffrey Berman stated that the extradition represented a "Significant Milestone" in the legal fight against international cyber crime.
 
-(<https://www.bbc.com/news/technology-45472766> "Link to Article")
+<https://www.bbc.com/news/technology-45472766>
 
 
 
